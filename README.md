@@ -34,12 +34,11 @@ This project moves beyond static ad-platform exports by joining two distinct dat
 
 ---
 
-## 5. Visual Diagnostic
-![Cross-Channel ROAS Audit](visuals/roas_efficiency_audit.png)
+
 
 ---
 
-## 6. Repository Structure
+## 5. Repository Structure
 * `/python/adspend_api_crm_pipeline.py` — Automated API ingestion, UTM data cleaning, and CRM enrichment script.
 * `/dax/paid_media_dax_measures.dax` — Production Power BI DAX measures for dynamic CAC, ROAS, and pacing cards.
 * `/sql/roas_and_spend_efficiency.sql` — Analytical SQL queries for funnel efficiency, wasted spend, and quartile marginal returns.
